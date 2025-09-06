@@ -1,17 +1,4 @@
-import React from "react";
-import ReactDOM from "react-dom/client";
-import App from "./App";
-import "./index.css"; // Optional: your CSS styles
-
-const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
-Pragyan AI and DS School
-3:07 PM
 body {
-  margin: 0;
-  background-color: #f0f2f5;
+  margin:0;
+  backgrpund-color: #f0f2f5;
 }
